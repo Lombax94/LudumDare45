@@ -5,15 +5,15 @@ using UnityEngine;
 public class visualtest : MonoBehaviour
 {
     // Start is called before the first frame update
-    //test
+    //test 2
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    // Update is called once per frame 
     void Update()
     {
         
     }
-}
+} 
